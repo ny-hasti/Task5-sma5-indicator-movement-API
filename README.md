@@ -26,6 +26,7 @@ Your API supports both GET and POST.
 Below is the logic in very simple language:
 
 **STEP 1 — User sends data (through GET or POST)**
+
 ***🔹 Option A: GET Method***
 
 Data comes in URL parameters:
